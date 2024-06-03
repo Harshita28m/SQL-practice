@@ -1,0 +1,1 @@
+SELECT name FROM customer LIMIT 2;
