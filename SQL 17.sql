@@ -1,0 +1,1 @@
+SELECT name FROM customer ORDER BY id DESC;
